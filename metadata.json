@@ -1,0 +1,5 @@
+{
+  "name": "Loki Gallery",
+  "description": "A secure portal for clients to view their photos and videos.",
+  "requestFramePermissions": []
+}
